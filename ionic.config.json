@@ -1,0 +1,7 @@
+{
+  "name": "TCC_FORNO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
